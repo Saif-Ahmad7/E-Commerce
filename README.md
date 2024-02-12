@@ -1,2 +1,2 @@
 # E-Commerce
-Using Java ,Springboot,Reactjs,MySQL
+Using Java8 ,Springboot,Reactjs,MySQL
